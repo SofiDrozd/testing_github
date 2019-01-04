@@ -1,2 +1,2 @@
 My first trial.
-Branch 2
+Branch 1 updated
